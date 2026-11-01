@@ -1,0 +1,16 @@
+# Saída de compilação
+out/
+bin/
+target/
+
+# Metadados de IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs e temporários
+*.log
+*.class
